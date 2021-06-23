@@ -1,2 +1,1 @@
-# crackme
-reverseme,unpackme , i другая хуйня
+[crackme] from crackmes.one
